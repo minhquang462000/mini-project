@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "nmquang - admin",
+      "age": 19,
+      "email": "nmquang@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "quangtety - user",
+      "age": 20,
+      "email": "quangtety@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
