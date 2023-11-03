@@ -14,5 +14,25 @@
       "email": "quangtety@gmail.com",
       "password": "123456"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "coca cola",
+      "price": 200,
+      "img":""
+    },
+    {
+      "id": 2,
+      "name": "pepsi",
+      "price": 200,
+      "img":""
+    },
+    {
+      "id": 3,
+      "name": "bi dao",
+      "price": 200,
+      "img":""
+    },
   ]
 }

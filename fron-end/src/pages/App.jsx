@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Header from '../component/Header'
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <div className='text-red-500'>App</div>
+   <Header/>
     </>
   )
 }
